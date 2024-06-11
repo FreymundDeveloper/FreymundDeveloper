@@ -42,10 +42,10 @@ My name is Lucas, I adore web development, and I always try to learn something n
 </div><br>
 
 <a href="">
-  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=FreymundDeveloper&theme=tokyonight&show_icons=true&hide=issues,contribs&rank_icon=github&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=FreymundDeveloper&theme=tokyonight&show_icons=true&hide=issues,contribs&rank_icon=github&card_width=320" />
 </a>
 <a href="">
-  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreymundDeveloper&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight&langs_count=8&hide=SCSS,CoffeeScript&exclude_repo=Python-Faculty,JavaScript-Basic,Web-Misc.github.io&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreymundDeveloper&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight&langs_count=8&hide=SCSS,CoffeeScript&exclude_repo=Python-Faculty,JavaScript-Basic,Web-Misc.github.io&card_width=320" />
 </a>
 
 ## Contact 📡
