@@ -5,7 +5,7 @@ My name is Lucas, I adore web development, and I always try to learn something n
 ## About me 🌌
 
 - 💻 Focus on Full Stack Development
-- 🔎 Currently Looking for a Job
+- 💼 Currently work at 2clix Tecnologia®
 - 🎓 Degreed in Information Systems
 - 🌐 Brazilian
 - 🕹️ Casual Gamer in My Spare Time
